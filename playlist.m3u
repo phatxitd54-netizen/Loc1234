@@ -1,0 +1,7 @@
+#EXTM3U url-tvg="https://vnepg.site/epg.xml.gz"
+#EXTINF:-1 tvg-id="vtv1-hd" group-title="Kênh VTV" tvg-logo="https://freem3u.xyz/static/images/vtv/vtv1.png
+https://raw.githubusercontent.com/fnxhd1/vtv1hd_vhls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="vtv2-hd" group-title="Kênh VTV" tvg-logo="https://freem3u.xyz/static/images/vtv/vtv2.png"
+https://raw.githubusercontent.com/fnxhd1/vtv2_vhls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="vtv3-hd" group-title="Kênh VTV" tvg-logo="https://freem3u.xyz/static/images/vtv/vtv3.png"
+https://raw.githubusercontent.com/fnxhd1/vtv3hd_vhls.smil/chunklist_b2500000.m3u8
